@@ -4,13 +4,12 @@ Angular 2
 
 ## Download
 * [Version 1.0](https://github.com/gabrielsule/angular2/archive/master.zip)
-* Other Versions
 
 ## Usage
 ```
 npm install
 
-npm run
+npm start
 ```
 
 ## Version 
